@@ -346,3 +346,25 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+
+OpenSim.sln
+compile.bat
+
+*/*/*/*/*/*/*.csproj
+*/*/*/*/*/*.csproj
+*/*/*/*/*.csproj
+*/*/*/*.csproj
+*/*/*.csproj
+*/*.csproj
+
+
+bin/*.Modules.dll
+bin/Gloebit.dll
+bin/OpenSim.exe
+bin/OpenSim.*.dll
+bin/OpenSim.*.exe
+bin/pCampBot.exe
+bin/Robust.exe
+bin/Robust.*.dll
+bin/SmartThreadPool.dll
